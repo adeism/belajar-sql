@@ -2,7 +2,7 @@
 
 Panduan praktis untuk belajar SQL dari dasar hingga mahir. Cheatsheet ini dirancang khusus untuk pemula dengan contoh yang mudah dipahami.
 
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/yourusername/sql-cheatsheet/issues)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
 ## 📑 Daftar Isi
 - [Dasar Query SQL](#dasar-query-sql)
@@ -259,12 +259,3 @@ ROLLBACK;
    - Gunakan indeks untuk kolom yang sering dicari
    - Batasi hasil dengan LIMIT untuk data besar
 
-## 🤝 Kontribusi
-
-Kontribusi sangat diterima! Jika Anda memiliki saran atau perbaikan:
-
-1. Fork repository ini
-2. Buat branch baru (`git checkout -b fitur-baru`)
-3. Commit perubahan (`git commit -am 'Menambah fitur baru'`)
-4. Push ke branch (`git push origin fitur-baru`)
-5. Buat Pull Request
